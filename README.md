@@ -23,7 +23,7 @@ No arquivo **`appsettings.json`**, configure a string de conexão do PostgreSQL:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Database=ProductHub;Username=postgres;Password=123456"
+  "DefaultConnection": "Host=localhost;Database=ProductHub;Username=postgres;Password=admin"
 }
 ```
 
