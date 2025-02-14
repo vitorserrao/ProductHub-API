@@ -39,7 +39,7 @@ dotnet run
 
 ---
 
-# ** Exemplos de Endpoints**
+# **Exemplos de Endpoints**
 
 ## ** Produtos**
 
@@ -124,7 +124,7 @@ dotnet run
 
 ---
 
-## ** Usuários e Autenticação**
+## **Usuários e Autenticação**
 
 ### **4️⃣ Criar um usuário**
 🔹 **POST /api/Users/CreateUser**  
@@ -158,7 +158,7 @@ dotnet run
 
 ---
 
-### **5️⃣ Login **
+### **5️⃣ Login**
 🔹 **POST /api/Users/Login**  
 🔹 **Requisição:**
 ```json
