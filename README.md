@@ -4,7 +4,7 @@ API web ASP.NET Core para gerenciamento de produtos com autenticação JWT, usan
 
 ---
 
-## ** Tecnologias Utilizadas **
+## **Tecnologias Utilizadas**
 ✅ **.NET 8.0** - Framework principal da aplicação  
 ✅ **ASP.NET Core** - Desenvolvimento de APIs web  
 ✅ **Entity Framework Core** - ORM para interação com o banco de dados  
