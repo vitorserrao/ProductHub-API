@@ -1,4 +1,4 @@
-# ** ProductHub API **
+# **ProductHub API**
 
 API web ASP.NET Core para gerenciamento de produtos com autenticação JWT, usando **.NET 8.0**, **Entity Framework Core**, **PostgreSQL**, **AspNetCoreRateLimit** e **Autenticação JWT**.
 
@@ -16,7 +16,7 @@ API web ASP.NET Core para gerenciamento de produtos com autenticação JWT, usan
 
 ---
 
-## ** Configuração e Execução do Projeto **
+## **Configuração e Execução do Projeto**
 
 ### 🔹 **1. Configurar o Banco de Dados**
 No arquivo **`appsettings.json`**, configure a string de conexão do PostgreSQL:
@@ -27,7 +27,7 @@ No arquivo **`appsettings.json`**, configure a string de conexão do PostgreSQL:
 }
 ```
 
-### 🔹 **2. Aplicar as Migrações do Banco de Dados **
+### 🔹 **2. Aplicar as Migrações do Banco de Dados**
 ```bash
 dotnet ef database update
 ```
@@ -43,7 +43,7 @@ dotnet run
 
 ## ** Produtos**
 
-### **1️⃣ Obter todos os produtos **
+### **1️⃣ Obter todos os produtos**
 🔹 **GET /api/Products/GetAllProducts**  
 🔹 **Resposta:**
 ```json
@@ -195,6 +195,6 @@ dotnet test
 
 ---
 
-## ** Autor **
+## **Autor**
  **Desenvolvido por:** Vitor Serrão
 
