@@ -4,7 +4,7 @@ API web ASP.NET Core para gerenciamento de produtos com autenticação JWT, usan
 
 ---
 
-## **🔧 Tecnologias Utilizadas**
+## ** Tecnologias Utilizadas**
 ✅ **.NET 8.0** - Framework principal da aplicação  
 ✅ **ASP.NET Core** - Desenvolvimento de APIs web  
 ✅ **Entity Framework Core** - ORM para interação com o banco de dados  
@@ -16,7 +16,7 @@ API web ASP.NET Core para gerenciamento de produtos com autenticação JWT, usan
 
 ---
 
-## **⚙️ Configuração e Execução do Projeto**
+## ** Configuração e Execução do Projeto**
 
 ### 🔹 **1. Configurar o Banco de Dados**
 No arquivo **`appsettings.json`**, configure a string de conexão do PostgreSQL:
@@ -41,7 +41,7 @@ dotnet run
 
 # ** Exemplos de Endpoints**
 
-## **🛒 Produtos**
+## ** Produtos**
 
 ### **1️⃣ Obter todos os produtos**
 🔹 **GET /api/Products/GetAllProducts**  
@@ -196,5 +196,5 @@ dotnet test
 ---
 
 ## ** Autor**
-💻 **Desenvolvido por:** Vitor Serrão
+ **Desenvolvido por:** Vitor Serrão
 
