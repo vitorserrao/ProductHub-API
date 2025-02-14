@@ -195,6 +195,6 @@ dotnet test
 
 ---
 
-## ** Autor**
+## ** Autor **
  **Desenvolvido por:** Vitor Serrão
 
