@@ -41,7 +41,7 @@ dotnet run
 
 # **Exemplos de Endpoints**
 
-## ** Produtos**
+## **Produtos**
 
 ### **1️⃣ Obter todos os produtos**
 🔹 **GET /api/Products/GetAllProducts**  
